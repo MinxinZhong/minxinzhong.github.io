@@ -1,17 +1,17 @@
 future: true
 permalink: /:title/
-url: http://pmlpml.github.io
-name: Pan Sir
-author: Sir Pan
-qq: yourqq
-email: yourmail@mail2.sysu.edu.cn
+url: http://minxinzhong.github.io
+name: Minxin
+author: Minxin
+qq: 597506441
+email: 597506441@qq.com
 
-duoshuo: yourname
+duoshuo: Minxin
 beian: 
 cnzz: 
 weibo: 
-github: yourID
-about: "这里是 Your 的个人博客，创建于 20xx 年。"
+github: github.com/minxinzhong
+about: "这里是 Minxin 的个人博客，创建于 2018 年。"
 
 safe: true
 paginate: 20
